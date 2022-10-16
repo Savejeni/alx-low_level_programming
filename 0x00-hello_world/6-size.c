@@ -2,7 +2,7 @@
 
 /**
  * main - size of various types
- *  Return - (0) Successful if existed
+ * Return: 0 Successful if existed
  */
 int main(void)
 {
