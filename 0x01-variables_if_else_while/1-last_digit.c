@@ -4,8 +4,8 @@
 #include <stdio.h>
 /**
  * main - last digit
- * 
- * Return - Successful Always
+ *
+ * Return: Successful Always
  */
 int main(void)
 {
