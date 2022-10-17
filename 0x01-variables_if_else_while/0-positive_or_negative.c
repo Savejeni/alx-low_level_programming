@@ -19,7 +19,7 @@
 		printf("%d is a postive\n", n);
 	else if (n < 0)
 		printf("%d n is a nagetive\n", n);
-	else (n = 0)
+	else
 		printf("%d n is zero\n", n);
 	return (0);
 }
