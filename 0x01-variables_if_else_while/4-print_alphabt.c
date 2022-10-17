@@ -11,7 +11,7 @@ int main(void)
 	
 	char Alphabet;
 	for (Alphabet = 'a'; Alphabet <= 'z'; Alphabet++)
-	if (Alphabet != 'e' &Alphabet != 'q')
+	if (Alphabet != 'e' && Alphabet != 'q')
 		putchat(Alphabet);
 	putchar('\n');
 	return (0);
