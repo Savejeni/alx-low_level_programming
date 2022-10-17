@@ -13,8 +13,8 @@ int main(void)
 	if (n > 0)
 		printf("%d is a postive number\n", n);
 	else if (n < 0)
-		print("%d n is a nagetive number\n", n);
+		printf("%d n is a nagetive number\n", n);
 	else (n = 0)
-		print("%d n is zero\n", n)
+		printf("%d n is zero\n", n)
 	return (0);
 }
