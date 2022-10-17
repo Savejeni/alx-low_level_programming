@@ -16,10 +16,10 @@
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
-		printf("%d is a postive\n", n);
+		printf("%d is postive\n", n);
 	else if (n < 0)
-		printf("%d n is a nagetive\n", n);
+		printf("%d is nagetive\n", n);
 	else
-		printf("%d n is zero\n", n);
+		printf("%d is zero\n", n);
 	return (0);
 }
