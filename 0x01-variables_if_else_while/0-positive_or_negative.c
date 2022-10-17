@@ -11,10 +11,10 @@ int main(void)
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)
-		printf("%d is a postive number\n", n);
+		printf("%d is a postive\n", n);
 	else if (n < 0)
-		printf("%d n is a nagetive number\n", n);
+		printf("%d n is a nagetive\n", n);
 	else (n = 0)
-		printf("%d n is zero\n", n)
+		printf("%d n is zero\n", n);
 	return (0);
 }
