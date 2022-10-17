@@ -2,10 +2,15 @@
 
 #include <time.h>
 
-/* 0-positive_or_negative_c */
- 
-/* main: assign a random number to the variable n */
-int main(void)
+#include <stdio.h>
+
+/**
+ * main: Prints a random number and states whether
+ * or its positive or negative
+ * Return: Alway successful
+ */ 
+
+ int main(void)
 {
 	int n;
 	srand(time(0));
