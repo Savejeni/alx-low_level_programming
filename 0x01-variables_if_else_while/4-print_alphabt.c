@@ -10,8 +10,8 @@ int main(void)
 {
 	
 	char Alphabet;
-	for (Alphabet = 'a'; Alpbabet <= 'z'; Alphabet++)
-	if (Alphabet != 'e' &Alpbbet != 'q')
+	for (Alphabet = 'a'; Alphabet <= 'z'; Alphabet++)
+	if (Alphabet != 'e' &Alphabet != 'q')
 		putchat(Alphabet);
 	putchar('\n');
 	return (0);
