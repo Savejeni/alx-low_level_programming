@@ -6,9 +6,11 @@
  */
 int main(void)
 {
+	int num;
 	char num;
-
-	putchar("%x", num);
+	for (num = 0; num<=10; num++)
+	for (num = 'a'; num = 'f'; num++)
+		putchar(num);
 	putchar('\n');
 	return (0);
 }
