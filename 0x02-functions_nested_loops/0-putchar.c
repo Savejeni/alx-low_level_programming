@@ -1,1 +1,2 @@
-gcc c main.h
+#!/bin/bash
+gcc -c main.h
