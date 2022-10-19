@@ -1,1 +1,1 @@
-gcc -c main.h
+gcc c main.h
